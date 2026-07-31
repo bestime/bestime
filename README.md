@@ -20,3 +20,5 @@
 
 <div style="width: 200px;height:200px;background-color: red;">我是测试</div>
 
+![Loading Spinner](./test.svg)
+
