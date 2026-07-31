@@ -1,4 +1,4 @@
-![图片一](./icon_01.svg)
+![图片一](./static/002.png)
 
 ### 前端老菜鸟
 
@@ -20,5 +20,5 @@
 
 <div style="width: 200px;height:200px;background-color: red;">我是测试</div>
 
-![Loading Spinner](./test2.svg?t=2)
+![Loading Spinner](./static/test2.svg?t=2)
 
