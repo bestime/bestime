@@ -1,4 +1,4 @@
-![Loading Spinner](./icon_01.svg?t=2)
+![图片一](./icon_01.svg)
 
 ### 前端老菜鸟
 
