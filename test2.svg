@@ -19,7 +19,7 @@
          to="-360 50 50" 
          repeatCount="indefinite" />
   </circle>
-  <g fill="#fff">
+  <g fill="#6fb782">
   <rect x="30" y="35" width="5" height="30">
     <animateTransform 
        attributeName="transform" 
